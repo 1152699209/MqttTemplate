@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ir2H2k8UFDE=",
+  "success": true,
+  "projectFilePath": "D:\\Learn\\MqttPrc\\MqttServers\\MqttServer\\MqttClient\\MqttClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\颜廷宇\\.nuget\\packages\\mqttnet\\3.0.15\\mqttnet.3.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
